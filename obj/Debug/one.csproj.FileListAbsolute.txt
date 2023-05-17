@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\one\bin\Debug\one.exe.config
+C:\Users\Студент\source\repos\one\bin\Debug\one.exe
+C:\Users\Студент\source\repos\one\bin\Debug\one.pdb
+C:\Users\Студент\source\repos\one\obj\Debug\one.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\one\obj\Debug\one.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\one\obj\Debug\one.exe
+C:\Users\Студент\source\repos\one\obj\Debug\one.pdb

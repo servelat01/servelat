@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\three\bin\Debug\three.exe.config
+C:\Users\Студент\source\repos\three\bin\Debug\three.exe
+C:\Users\Студент\source\repos\three\bin\Debug\three.pdb
+C:\Users\Студент\source\repos\three\obj\Debug\three.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\three\obj\Debug\three.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\three\obj\Debug\three.exe
+C:\Users\Студент\source\repos\three\obj\Debug\three.pdb

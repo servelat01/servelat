@@ -1,0 +1,7 @@
+C:\Users\Студент\source\repos\four\bin\Debug\four.exe.config
+C:\Users\Студент\source\repos\four\bin\Debug\four.exe
+C:\Users\Студент\source\repos\four\bin\Debug\four.pdb
+C:\Users\Студент\source\repos\four\obj\Debug\four.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\four\obj\Debug\four.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\four\obj\Debug\four.exe
+C:\Users\Студент\source\repos\four\obj\Debug\four.pdb

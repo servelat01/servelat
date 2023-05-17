@@ -1,0 +1,6 @@
+C:\Users\Студент\source\repos\two\bin\Debug\two.exe.config
+C:\Users\Студент\source\repos\two\bin\Debug\two.exe
+C:\Users\Студент\source\repos\two\bin\Debug\two.pdb
+C:\Users\Студент\source\repos\two\obj\Debug\two.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\two\obj\Debug\two.exe
+C:\Users\Студент\source\repos\two\obj\Debug\two.pdb
